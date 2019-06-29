@@ -6,6 +6,7 @@ V Programming Language examples
 
 Bounding ball demonstration, using GLFW.
 
+![demo](https://raw.githubusercontent.com/ashitani/v_lang_examples/master/balls_movie.gif)
 
 ## Calling C funtion
 
